@@ -1,1 +1,2 @@
 # ReginExpress
+## Autor: Igor Olszówka
