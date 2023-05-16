@@ -14,5 +14,5 @@ Jako firma, która nieustannie rozwija się wraz z postępem technologicznym, je
 
 Jeśli szukasz partnera technologicznego, który zrozumie Twoje potrzeby i dostarczy rozwiązanie na miarę Twoich oczekiwań, TechSolutions jest idealnym wyborem. Jesteśmy gotowi podjąć się każdego wyzwania i zapewnić Ci doskonałą jakość, profesjonalizm i satysfakcję klienta.
 
-###!!!
+!!!
 (podane w dokumencie nazwy firm są przypadkowe ze względu na to ,że cały projekt jest w ramach nauki w szkole. Z góry przepraszam za nieporozumienie)
